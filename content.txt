@@ -1,0 +1,43 @@
+Welcome everyone! My name is Samuel Morris. I’m here with Sacha Arthurs. For FIU’s first Pantherhacks, we collaborated on a software project we call Six Feet Apart.
+
+We’ll be talking about the overview of the project, the current problems our target users face, how Six Feet Apart can help, how we designed it, what tools we used, and where we will go from here.
+
+Overview
+
+With the COVID-19 pandemic affecting people’s ability to stay connected, this project was developed with the goal of still bringing the community together while being in accordance with social distancing guidelines.
+Six Feet Apart allows users to complete a short survey where they indicate their interests. 
+Upon submission, their responses will be scored and the user will be linked to a forum that is composed of users who share similar interests.
+In a time where we can’t be physically connected, it is important to adapt so that we may continue to keep our sense of community strong. 
+
+Understand the problems
+
+With everything going virtual, Internet users are facing  information overload and experiencing social isolation more than ever
+
+Users may have trouble finding and interacting with new people who share common interests
+
+How can we help the community meet new people and learn new things despite worldwide lockdowns?
+
+Project objective
+
+Through the use of tried and true technology tools, we aim to both determine users’ common interests and match them to communities that are best suited for their needs.
+
+Target audience
+
+Any member of the online community who is having trouble staying connected with others during the current pandemic
+
+Introducing: 6 Feet Apart
+
+    The online survey and forum can both be accessed on a multitude of devices including: desktops, laptops, and mobile devices.
+    This allows increased accessibility for users who may have varying access to different technological equipment. 
+
+Desktop - Use your favorite web browser
+
+Users who prefer large screens or may not have access to mobile devices can connect with the community on their desktops. 
+
+Mobile - Mobile view for both iOS and Android smartphones
+
+In an effort to include everyone in the community, both iOS and Android users have access to 6 Feet Apart on their mobile device. 
+
+Tablets welcome too!
+
+Tablet users are not excluded from joining their community as they can also be matched with peers.
