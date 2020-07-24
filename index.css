@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: #6A8EAE; 
+}
+
+h1:hover {
+  letter-spacing: 6px;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+iframe {
+
+ } 
